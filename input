@@ -10,8 +10,8 @@ int main(){
   float n=k1*k2*k3*v;
   float u=100.0/n;
   if(u<9.58)
-  printf("Yes\n");
+  printf("Y\n");
   else
-  printf("No\n");}
+  printf("N\n");}
 }
 }
